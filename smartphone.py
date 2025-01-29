@@ -9,3 +9,12 @@ class Smartphone:
 
     def info(self):
         print('Smartphone model', self.model,'year', self.year, 'size', self.size,)
+
+
+
+from Tuple.smartphone import Smartphone
+
+if __name__ == '__main__':
+
+    smartphone1 = Smartphone('Apple', year=2023)
+    smartphone1.info()
