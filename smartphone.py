@@ -20,3 +20,5 @@ if __name__ == '__main__':
 
     smartphone1 = Smartphone('Apple', year=2023)
     smartphone1.info()
+
+    wdikfhdljsn
