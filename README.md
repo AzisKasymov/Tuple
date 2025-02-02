@@ -1,1 +1,1 @@
-explanation  todauy in lessons we study about class, how to work pycharm how to work git hub, today in the lessons a get a usefull skills 
+Today in the lessons, we studied classes, how to work with PyCharm, and how to use GitHub. I gained useful skills during the lessons today.
